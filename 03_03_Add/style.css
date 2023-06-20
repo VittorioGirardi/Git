@@ -1,7 +1,7 @@
 bottone {
 
 
-    color: #f8740e;
+    color: #000000;
 
 
 }
@@ -9,7 +9,7 @@ bottone {
 
 h1 {
 
-color: aqua;
+color: rgb(0, 0, 0);
 
 
 }
@@ -17,10 +17,10 @@ color: aqua;
 input {
 
 
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
 }
 
 li {
 
-    color: aquamarine;
+    color: rgb(0, 0, 0);
 }
